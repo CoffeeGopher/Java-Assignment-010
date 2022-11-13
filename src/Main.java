@@ -2,6 +2,14 @@ import java.awt.*;
 import java.util.*;
 import java.util.List;
 
+/**
+ * Brennan Duffy
+ * 11/12/2022
+ *
+ * Wasn't able to finish my vision in time, but it still met the minimum requirements for the assignment.
+ * Ended up using extra inheritance with the "Damageable" class, although I think that probably should've been an interface...
+ * I need more experience with interfaces before I can use them comfortably.
+ */
 public class Main {
     public static void main(String[] args) {
         List<Dog> dogs = new ArrayList<>();
